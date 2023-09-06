@@ -1,0 +1,37 @@
+{
+  "name": "pappumusic",
+  "description": "pappumusic is a pro lavalink client. It is designed to be simple and easy to use, with a focus on stability and more features.",
+  "version": "1.0.5-beta",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
+  "dependencies": {
+    "@discordjs/collection": "^1.5.3",
+    "discord.js": "^14.13.0",
+    "jsdom": "^22.1.0",
+    "undici": "^5.23.0",
+    "ws": "^8.13.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "lavalink",
+    "music",
+    "discord",
+    "discord.js",
+    "discordjs",
+    "pappumusic",
+    "pappumusic.js",
+    "pappumusic",
+    "pappumusic"
+  ],
+  "author": ["pappumusic"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pappumusic-team/pappumusic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pappumusic-team/rifpappumusicfy.js/issues"
+  }
+}
